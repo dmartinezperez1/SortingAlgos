@@ -1,4 +1,6 @@
 # SortingAlgos
-Various different algorithms to sort an array of numbers on Python
+Created this repository for personal practice. 
 
-Program will sort the array in the method the user chooses using the command line for now. 
+Will write various different sorting algorithms. 
+They will all be using random values in the array. The user will have to input the desire length of the array and the range of the values in the array. 
+
